@@ -16,4 +16,4 @@ Authors: Dave Fisher and PUT_YOUR_NAME_HERE.
 #     Hint: This program can be done in as little as 2 lines of code (1 import, 1 function call)
 #   Feel free to run it, change it, and run it again with any message you like.
 #   This program is simple, but if you can do this, then you have the tools to do FAR more.
-# ------------------------------------------------------------------
+# -----------------------------------------------------------------
